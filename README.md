@@ -38,6 +38,7 @@ Werkzeug==2.1.2
 
 
 ## File Structure
+bash
 
 ImagePredictionApp/
 │
